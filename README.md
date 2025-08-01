@@ -86,7 +86,3 @@ npx tsx server/index.ts
 - Add job description upload feature
 - Integrate with LinkedIn API for auto-job comparison
 - UI frontend for easy resume upload
-
-## 📄 License
-
-MIT
