@@ -1,6 +1,6 @@
 # 📝 ResumeRanker: Smart Resume Analyzer
 
-AI-powered resume analysis tool that evaluates resumes for tech roles, providing tailored feedback, skill suggestions, and job match scoring using NLP and LangChain.
+ResumeRanker is an AI-powered resume analysis tool built with TypeScript. It allows users to upload their resumes and receive instant feedback, skill enhancement suggestions, and job match scores tailored to tech roles. Using NLP models and LangChain, it extracts key skills and compares them against job descriptions. The backend is type-safe using Zod or io-ts, ensuring reliability and scalability. This tool helps job seekers optimize their resumes for better visibility and relevance.
 
 ## 🚀 Features
 
